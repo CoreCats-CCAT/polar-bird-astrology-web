@@ -26,6 +26,15 @@ does. Boundaries should usually be handled through accurate claim scope,
 omission of unsupported factual claims, and placement on the right explanatory
 page, not by repeating defensive disclaimers on brand surfaces.
 
+## Community Signals
+
+Engagement in public communities can help guide how sample reports are
+introduced. Treat reactions and replies as directional feedback about the post
+as a whole. When a post combines Core ecosystem news with a Polar Bird project
+mention, reactions do not identify which part drew attention or establish
+interest in a specific report, purchase intent, product demand, or Core
+endorsement.
+
 For Japanese homepage and UI copy, follow `docs/homepage_copy_policy_ja.md`.
 Avoid publishing internal workflow details that are not useful to the public
 reader.
