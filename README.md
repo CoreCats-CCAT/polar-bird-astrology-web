@@ -32,8 +32,11 @@ claims.
 
 ## Local Development
 
+Use the Node.js version in `.node-version` (currently 24.22.1) and its bundled
+npm. Astro requires Node.js 22.23.4 or newer and npm 9.6.5 or newer.
+
 ```bash
-npm install
+npm ci
 npm run check
 npm run build
 ```
@@ -49,6 +52,7 @@ The site is designed for static hosting. Cloudflare Pages can build it with:
 
 - build command: `npm run build`
 - output directory: `dist`
+- Node.js version: selected from the root `.node-version` file
 
 No server functions are required for the current public site.
 

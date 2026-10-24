@@ -13,7 +13,7 @@
     "test": "node tests/publicContentBoundary.test.mjs && node tests/publicClaims.test.mjs && node tests/importCoreReportSet.test.mjs"
   },
   "dependencies": {
-    "astro": "6.4.2"
+    "astro": "7.4.2"
   },
   "devDependencies": {
     "@astrojs/check": "0.9.9",
